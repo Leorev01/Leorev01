@@ -8,4 +8,4 @@ I would love to meet like minded web developers where we could work on projects 
 
 My email: revrennaleo@gmail.com
 
-Portfolio: (https://react-portfolio-hazel-nine.vercel.app/)
+Portfolio: (https://www.leonardorevrenna.software/)
