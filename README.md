@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Leonardo Revrenna!
 
 🎓 3rd Year Computer Science Student | 💻 Web Developer | 🧠 Tech Enthusiast  
-🥋 MMA Practitioner | 🥊 Huge UFC & Boxing Fan | ⚽ Sports Lover  
+🥋 MMA Practitioner | 🥊 Huge UFC & Boxing Fan | ♟️ Chess Enthusiast
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leorev01.leorev01)
 
