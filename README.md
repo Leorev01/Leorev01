@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Leo!
 
-🎓 3rd Year Computer Science Student | 💻 Web Developer | 🧠 Tech Enthusiast  
+🎓 3rd Year Computer Science Student | 💻 Web Developer / Software Engineer | 🧠 Tech Enthusiast  
 🥋 MMA Practitioner | 🥊 Huge UFC & Boxing Fan | ♟️ Chess Enthusiast
 
 ### 📺 Latest YouTube Uploads
@@ -12,7 +12,7 @@ Check out my latest content on solving LeetCode problems and coding tips → [Cr
 
 I’m a passionate **web developer** who loves building creative and practical projects during my free time. Whether it's solving coding challenges or working on full-stack apps, I’m always up for learning something new and collaborating with others!
 
-Outside of code, you’ll find me deep into **MMA training**, watching the latest **UFC card**, or catching up on just about any sport!
+Outside of code, you’ll find me deep into **MMA training**, watching the latest **UFC card**, or playing **chess**!
 
 ---
 
