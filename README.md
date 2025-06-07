@@ -3,7 +3,8 @@
 🎓 3rd Year Computer Science Student | 💻 Web Developer | 🧠 Tech Enthusiast  
 🥋 MMA Practitioner | 🥊 Huge UFC & Boxing Fan | ♟️ Chess Enthusiast
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leorev01.leorev01)
+### 📺 Latest YouTube Uploads
+Check out my latest content on solving LeetCode problems and coding tips → [CrappyCoder2001](https://www.youtube.com/@CrappyCoder2001/videos)
 
 ---
 
