@@ -18,55 +18,37 @@ Outside of code, you’ll find me deep into **MMA training**, watching the lates
 
 ## 🛠️ Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+### 🧾 Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" title="CSS3"/>
+</p>
 
-<!-- Languages -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #f0db4f;" alt="JavaScript"/>
-</a>
-<a href="https://www.typescriptlang.org/" title="TypeScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #3178c6;" alt="TypeScript"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #e34c26;" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #264de4;" alt="CSS3"/>
-</a>
+### 🖼️ Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="60" alt="Next.js" title="Next.js"/>
+</p>
 
-<!-- Frontend -->
-<a href="https://reactjs.org/" title="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #61dafb;" alt="React"/>
-</a>
-<a href="https://nextjs.org/" title="Next.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #ffffff;" alt="Next.js"/>
-</a>
+### ⚙️ Backend & Server
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express" title="Express"/>
+</p>
 
-<!-- Backend -->
-<a href="https://nodejs.org/" title="Node.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #339933;" alt="Node.js"/>
-</a>
-<a href="https://expressjs.com/" title="Express.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #888888;" alt="Express"/>
-</a>
+### 🗃️ Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" title="MongoDB"/>
+</p>
 
-<!-- Databases -->
-<a href="https://www.postgresql.org/" title="PostgreSQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #336791;" alt="PostgreSQL"/>
-</a>
-<a href="https://www.mongodb.com/" title="MongoDB">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #47A248;" alt="MongoDB"/>
-</a>
-
-<!-- Tools -->
-<a href="https://git-scm.com/" title="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #f05032;" alt="Git"/>
-</a>
-<a href="https://code.visualstudio.com/" title="VS Code">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="border-radius: 50%; box-shadow: 0 0 10px #007ACC;" alt="VS Code"/>
-</a>
-
-</div>
+### 🔧 Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" title="VS Code"/>
+</p>
 
 ---
 
