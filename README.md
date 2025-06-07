@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Leonardo Revrenna!
+# 👋 Hi there, I'm Leo!
 
 🎓 3rd Year Computer Science Student | 💻 Web Developer | 🧠 Tech Enthusiast  
 🥋 MMA Practitioner | 🥊 Huge UFC & Boxing Fan | ♟️ Chess Enthusiast
