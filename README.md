@@ -67,37 +67,10 @@ When I'm not coding:
 ![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leorev01&show_icons=true&theme=radical&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leorev01&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=leorev01&theme=radical&hide_border=true)  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leorev01&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leorev01&theme=radical&area=true&custom_title=My%20GitHub%20Activity%20This%20Year)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
-
----
-
-## 🔥 Featured Projects
-
-### 🧠 LeetCode Tracker  
-A sleek, minimal web app to track and visualize your problem-solving journey.  
-[🚀 Live](https://leetcode-tracker.vercel.app) | [📁 Repo](https://github.com/leorev01/leetcode-tracker)
-
----
-
-### 💼 DevPortfolio  
-A personal portfolio site built using **Next.js** + **Tailwind**, featuring responsive design and project highlights.  
-[🌐 Demo](https://leonardorevrenna.software) | [📁 GitHub](https://github.com/leorev01/devportfolio)
-
----
-
-## 🏷️ Tech Badges
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
