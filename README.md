@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Leo!;Web+Developer+%2F+Software+Engineer;Tech+%7C+MMA+%7C+Chess+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Leo!;Computer+Science+Student+%7C+Web+Dev;Tech+Enthusiast+%7C+MMA+Fan+%7C+Chess+Lover" alt="Typing SVG" />
 </p>
 
 🎓 3rd Year Computer Science Student | 💻 Web Developer / Software Engineer | 🧠 Tech Enthusiast  
