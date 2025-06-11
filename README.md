@@ -10,11 +10,29 @@ Check out my latest content on solving LeetCode problems and coding tips → [Cr
 
 ---
 
+🎓 **3rd Year Computer Science Student**  
+💻 **Web Developer & Software Engineer**  
+🧠 **Lifelong Tech Learner**  
+🥋 **MMA Practitioner** | 🥊 **Combat Sports Fan** | ♟️ **Chess Enthusiast**
+
+---
+
+## 📺 Latest YouTube Uploads
+
+🎥 Sharing LeetCode walkthroughs, coding tips, and dev insights.  
+▶️ [**Watch now on @CrappyCoder2001**](https://www.youtube.com/@CrappyCoder2001/videos)
+
+---
+
 ## 🚀 About Me
 
-I’m a passionate **web developer** who loves building creative and practical projects during my free time. Whether it's solving coding challenges or working on full-stack apps, I’m always up for learning something new and collaborating with others!
+I’m a curious and passionate **full-stack web developer** who loves turning ideas into digital solutions.  
+Whether it's building tools, automating tasks, or solving LeetCode challenges — I’m always exploring new tech and pushing my limits.
 
-Outside of code, you’ll find me deep into **MMA training**, watching the latest **UFC card**, or playing **chess**!
+Outside of coding, you’ll find me:
+- Hitting pads in **MMA training**
+- Watching the latest **UFC or boxing match**
+- Analyzing endgames in **chess**
 
 ---
 
@@ -22,7 +40,7 @@ Outside of code, you’ll find me deep into **MMA training**, watching the lates
 
 <div align="center">
 
-### 🧾 Languages  
+### 💡 Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
@@ -32,9 +50,9 @@ Outside of code, you’ll find me deep into **MMA training**, watching the lates
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js"/>
 
-### ⚙️ Backend & Server  
+### ⚙️ Backend  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
 
 ### 🗃️ Databases  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
@@ -59,19 +77,22 @@ Outside of code, you’ll find me deep into **MMA training**, watching the lates
 
 ---
 
-## 📌 Let's Connect
+## 🤝 Let’s Connect!
 
-💼 **LinkedIn:** [Leonardo Revrenna](https://www.linkedin.com/in/leorev01/)  
-🌐 **Portfolio:** [leonardorevrenna.software](https://www.leonardorevrenna.software/)  
-📹 **YouTube (LeetCode):** [@CrappyCoder2001](https://www.youtube.com/@CrappyCoder2001/videos)
+- 💼 [**LinkedIn** – Leonardo Revrenna](https://www.linkedin.com/in/leorev01/)
+- 🌐 [**Portfolio** – leonardorevrenna.software](https://www.leonardorevrenna.software/)
+- 📹 [**YouTube** – @CrappyCoder2001](https://www.youtube.com/@CrappyCoder2001/videos)
 
 ---
 
-## 💡 Fun Fact
+## 💬 Fun Fact
 
-I’m always open to collaborating on **cool web projects**, diving into new **frameworks**, or even just pair-programming on some **LeetCode problems**.
+I'm always up for:
+- 🛠️ Building side projects
+- 🔍 Exploring new frameworks
+- 👥 Pair programming sessions on LeetCode
 
-If you're into dev stuff, MMA, or just good conversations — let’s chat!
+If you're into tech, MMA, or just good conversation — let’s connect and create!
 
 ---
 
