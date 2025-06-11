@@ -67,7 +67,8 @@ When I'm not coding:
 ![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leorev01&show_icons=true&theme=radical&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leorev01&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=leorev01&theme=radical&hide_border=true)  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leorev01&theme=radical&area=true&custom_title=My%20GitHub%20Activity%20This%20Year)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Lifetime Contributions](https://github-contributions.vercel.app/leorev01.svg)
+
 
 
 </div>
