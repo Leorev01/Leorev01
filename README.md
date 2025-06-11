@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Leo!;Software+Engineer+%7C+Web+Developer;Tech+Enthusiast+%7C+MMA+Fan+%7C+Chess+Lover" alt="Typing SVG" />
 </p>
 
-🎓 3rd Year Computer Science Student | 💻 Web Developer / Software Engineer | 🧠 Tech Enthusiast  
-🥋 MMA Practitioner | 🥊 Huge UFC & Boxing Fan | ♟️ Chess Enthusiast
-
-### 📺 Latest YouTube Uploads
-Check out my latest content on solving LeetCode problems and coding tips → [CrappyCoder2001](https://www.youtube.com/@CrappyCoder2001/videos)
-
 ---
 
 🎓 **3rd Year Computer Science Student**  
