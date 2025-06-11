@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Leo!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Leo!;Web+Developer+%2F+Software+Engineer;Tech+%7C+MMA+%7C+Chess+Enthusiast" alt="Typing SVG" />
+</p>
 
 🎓 3rd Year Computer Science Student | 💻 Web Developer / Software Engineer | 🧠 Tech Enthusiast  
 🥋 MMA Practitioner | 🥊 Huge UFC & Boxing Fan | ♟️ Chess Enthusiast
