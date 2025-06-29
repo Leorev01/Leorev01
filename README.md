@@ -2,35 +2,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Leo!;Web+Developer+%7C+Software+Engineer;MMA+Fan+%7C+Tech+Enthusiast+%7C+Chess+Lover" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</div>
-
 ---
 
-🎓 **Computer Science @ Year 3**  
+🎓 **3rd Year Computer Science Student**  
 💻 **Full-Stack Developer & Software Engineer**  
-🧠 **Curious Mind. Constant Learner. Problem Solver.**  
-🥋 **MMA Practitioner** | ♟️ **Chess Addict** | 🔧 **Code Tweaker**
+🧠 **Lifelong Tech Explorer**  
+🥋 **MMA Practitioner** | ♟️ **Chess Addict**
 
 ---
 
 ## 📺 Latest YouTube Uploads
 
-From LeetCode deep dives to dev tips — check out my channel:  
+From LeetCode breakdowns to dev tips — check out my channel:  
 ▶️ [@CrappyCoder2001](https://www.youtube.com/@CrappyCoder2001/videos)
 
 ---
 
 ## 🚀 About Me
 
-I’m Leo — a passionate developer with a knack for full-stack projects and solving real-world problems through tech.  
-I love building sleek UIs, writing clean backend logic, and leveling up through new challenges.
+Hey! I’m Leo — a passionate and creative developer who loves solving real-world problems and building exciting side projects.  
+I enjoy crafting seamless UIs, designing efficient backends, and tackling LeetCode for fun.
 
 Outside of code:
-- Training in **MMA** or watching **UFC Fight Nights**
-- Playing long **chess** sessions on Chess.com
-- Experimenting with tools, frameworks, and side projects for fun
+- You’ll find me training **MMA** or watching **UFC fights**
+- Competing on **chess.com** (too late at night)
+- Learning new tech stacks or frameworks just for the thrill
 
 ---
 
@@ -70,12 +66,13 @@ Outside of code:
 
 ![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leorev01&show_icons=true&theme=radical&hide_title=true)
 <br />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=leorev01&theme=rogue" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-Leonardo%20Revrenna-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leorev01/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel)](https://www.leonardorevrenna.software/)  
@@ -83,5 +80,10 @@ Outside of code:
 
 ---
 
-> “The best way to predict the future is to invent it.”  
-> – *Alan Kay*
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</div>
+
+---
+
+> “The best way to predict the future is to invent it.” – *Alan Kay*
