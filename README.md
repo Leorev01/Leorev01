@@ -1,32 +1,36 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Leo!;Web+Developer+%7C+Software+Engineer;Tech+Lover+%7C+MMA+Fan+%7C+Chess+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Leo!;Web+Developer+%7C+Software+Engineer;MMA+Fan+%7C+Tech+Enthusiast+%7C+Chess+Lover" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</div>
 
 ---
 
-🎓 **3rd Year Computer Science Student**  
-💻 **Web Developer & Software Engineer**  
-🧠 **Lifelong Tech Learner**  
-🥋 **MMA Practitioner** | 🥊 **Combat Sports Fan** | ♟️ **Chess Addict**
+🎓 **Computer Science @ Year 3**  
+💻 **Full-Stack Developer & Software Engineer**  
+🧠 **Curious Mind. Constant Learner. Problem Solver.**  
+🥋 **MMA Practitioner** | ♟️ **Chess Addict** | 🔧 **Code Tweaker**
 
 ---
 
 ## 📺 Latest YouTube Uploads
 
-Check out LeetCode walkthroughs, dev tips, and more on my channel:  
+From LeetCode deep dives to dev tips — check out my channel:  
 ▶️ [@CrappyCoder2001](https://www.youtube.com/@CrappyCoder2001/videos)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate and creative **full-stack developer** who enjoys crafting real-world solutions and building fun side projects.  
-Whether it's optimizing a backend, designing sleek UIs, or crushing LeetCode problems — I thrive on challenge and collaboration.
+I’m Leo — a passionate developer with a knack for full-stack projects and solving real-world problems through tech.  
+I love building sleek UIs, writing clean backend logic, and leveling up through new challenges.
 
-When I'm not coding:
-- You'll find me training **MMA** or watching the **UFC**
-- Playing deep into the night on **chess.com**
-- Learning new tech or frameworks just for fun
+Outside of code:
+- Training in **MMA** or watching **UFC Fight Nights**
+- Playing long **chess** sessions on Chess.com
+- Experimenting with tools, frameworks, and side projects for fun
 
 ---
 
@@ -64,29 +68,20 @@ When I'm not coding:
 
 <div align="center">
 
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leorev01&show_icons=true&theme=radical&hide_title=true)    
+![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leorev01&show_icons=true&theme=radical&hide_title=true)
+<br />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-Leonardo%20Revrenna-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leorev01/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel)](https://www.leonardorevrenna.software/)
+[![LinkedIn](https://img.shields.io/badge/-Leonardo%20Revrenna-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leorev01/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel)](https://www.leonardorevrenna.software/)  
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrappyCoder2001/videos)
 
 ---
 
-## 💡 Fun Fact
-
-I'm always up for:
-- Building cool side projects 🛠️  
-- Exploring new frameworks 🔍  
-- Pair-programming LeetCode problems 👨‍💻  
-
-If you're into tech, MMA, or just good conversation — hit me up!
-
----
-
-> “The best way to predict the future is to invent it.” – *Alan Kay*
+> “The best way to predict the future is to invent it.”  
+> – *Alan Kay*
