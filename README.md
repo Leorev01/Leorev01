@@ -55,6 +55,8 @@ Outside of code:
 ### 🛠️ Tools  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud"/>
+<img src="https://img.icons8.com/color/48/000000/google-api.png" width="40" height="40" title="Google APIs"/>
 
 </div>
 
