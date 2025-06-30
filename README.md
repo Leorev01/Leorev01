@@ -65,7 +65,7 @@ Outside of code:
 
 <div align="center">
 
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leorev01&show_icons=true&theme=radical&hide_title=true)
+![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leorev01&show_icons=true&theme=radical&hide_title=true)
 <br />
 <div align="center">
   <img 
