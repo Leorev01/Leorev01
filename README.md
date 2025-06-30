@@ -69,9 +69,9 @@ Outside of code:
 <br />
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=leorev01&theme=radical&column=6&margin-w=15&margin-h=15" 
+    src="https://github-profile-trophy.vercel.app/?username=leorev01&theme=radical&column=4&margin-w=15&margin-h=15" 
     alt="GitHub Trophies"
-    style="width: 80%; max-width: 800px; min-width: 300px;" 
+    style="max-width: 600px; min-width: 300px;" 
   />
 </div>
 
