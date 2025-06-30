@@ -69,7 +69,7 @@ Outside of code:
 <br />
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=leorev01&theme=dark_lover&column=9&margin-w=15&margin-h=15" 
+    src="https://github-profile-trophy.vercel.app/?username=leorev01&theme=radical&column=9&margin-w=15&margin-h=15" 
     alt="GitHub Trophies"
     style="max-width: 100%;" 
   />
