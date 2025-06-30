@@ -71,8 +71,7 @@ Outside of code:
   <img src="https://github-profile-trophy.vercel.app/?username=leorev01&theme=radical&column=6&margin-w=10&margin-h=15" alt="GitHub Trophies" />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leorev01&theme=radical&column=7&margin-w=10&margin-h=15
-  &title=Followers,Repositories,Stars,Commits,PullRequest,Issues,Contributed,Repositories,Organization,Popular,MultiLanguage,Star,Fork,Commits,Issues,Sponsorship,Welcome,PullRequest,Repositories,Organization,Private,Discussion,Repositories,Star,Repository,PullRequest,Commits,Repositories,Follow,Stars,Issues,Commits,Repositories,PullRequest,Stargazer,Repository,Issue,Commit,PullRequest,Repository,Star,Commit,Repository,Repository,Repository,Commit,Repository,Repository" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leorev01&theme=radical&column=7&margin-w=10&margin-h=15&title=Followers,Repositories,Stars,Commits,PullRequest,Issues,Contributed,Repositories,Organization,Popular,MultiLanguage,Star,Fork,Commits,Issues,Sponsorship,Welcome,PullRequest,Repositories,Organization,Private,Discussion,Repositories,Star,Repository,PullRequest,Commits,Repositories,Follow,Stars,Issues,Commits,Repositories,PullRequest,Stargazer,Repository,Issue,Commit,PullRequest,Repository,Star,Commit,Repository,Repository,Repository,Commit,Repository,Repository" alt="GitHub Trophies" />
 </div>
 
 
