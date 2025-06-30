@@ -68,7 +68,11 @@ Outside of code:
 ![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leorev01&show_icons=true&theme=radical&hide_title=true)
 <br />
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leorev01&theme=radical&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=leorev01&theme=radical&column=6&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies"
+    style="width: 80%; max-width: 800px; min-width: 300px;" 
+  />
 </div>
 
 
