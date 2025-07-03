@@ -18,8 +18,8 @@
 
 ## 💬 About Me
 
-Hi! I’m **Leo** — a 3rd-year CS student & full-stack dev who loves building slick UIs, clean APIs, and creative side projects.  
-🥋 I train MMA, play a bit too much chess, and always chase the next thing to learn.  
+Hi! I’m **Leo** — a full-stack dev who loves building slick UIs, clean APIs, and creative side projects.  
+I train MMA, play a bit too much chess, and always chase the next thing to learn.  
 Let’s build something cool.
 
 </div>
