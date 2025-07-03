@@ -1,25 +1,26 @@
-<!-- 🧠 Typing Intro (custom color text + background) -->
+<!-- 🎥 Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Leo!;Full-Stack+Developer+%7C+CS+Student;Tech+Lover+%7C+MMA+Fan+%7C+Chess+Nerd" alt="Typing SVG" />
+  <img src="assets/animated-banner.gif" alt="Leo Animated Banner" width="100%" />
 </p>
 
-<!-- 🖼️ Banner -->
-<p align="center" style="margin-top: -20px; margin-bottom: -20px;">
-  <img src="assets/banner.png" alt="Leo Cartoon Banner" width="100%" />
+<!-- ✨ Name & Subtitle -->
+<h1 align="center">Hi, I'm Leo 👋</h1>
+<p align="center">
+  <strong>Full-Stack Developer · MMA Fan · Tech Explorer</strong><br/>
+  <em>Crafting code, dodging bugs, and pushing pixels.</em>
 </p>
 
 ---
 
 <!-- 🧑‍💻 ABOUT ME -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; background-color: #fdf0e8; border-radius: 15px; padding: 30px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; background-color: #FDF5E6; border-radius: 15px; padding: 30px;">
 
 <div style="flex: 1; min-width: 280px; max-width: 600px; text-align: left; padding: 10px; font-size: 16px;">
 
 ## 💬 About Me
 
-Hi! I’m **Leo** — a 3rd-year CS student & full-stack dev who loves building slick UIs, clean APIs, and creative side projects.  
-🥋 I train MMA, play a bit too much chess, and always chase the next thing to learn.  
-Let’s build something cool.
+Hey! I’m Leo — a 3rd-year CS student & full-stack developer who builds smooth UIs, scalable APIs, and fun side projects.  
+🥋 I train MMA, blunder in chess at 2AM, and never stop learning new stacks.
 
 </div>
 
@@ -33,7 +34,7 @@ Let’s build something cool.
 
 ## ⚙️ Tech Stack
 
-<div align="center" style="background-color:#e7f9f4; padding: 20px; border-radius: 15px;">
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
@@ -63,11 +64,7 @@ Let’s build something cool.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Leorev01&title=-Stars&theme=gruvbox&no-frame&column=9&margin-w=15&margin-h=15" 
-    alt="GitHub Trophies"
-    style="max-width: 100%;" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Leorev01&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=6&title=Commits,PullRequest,Repositories,Issues,Followers,MultiLanguage,Reviewer" />
 </div>
 
 ---
