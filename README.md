@@ -66,7 +66,7 @@ Let’s build something cool.
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div style="background-color:#F0E8FF; border-radius: 15px; padding: 20px; margin-top: 10px;">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=Leorev01&title=-Stars&theme=gruvbox&no-frame&column=9&margin-w=15&margin-h=15" 
     alt="GitHub Trophies"
