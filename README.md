@@ -10,25 +10,23 @@
 
 ---
 
-<!-- 🧑‍💻 ABOUT ME Section (Fixed layout with GIF beside text) -->
-<table width="100%" style="background-color:#fdf0e8; border-radius: 15px; padding: 20px;">
+<!-- 🧑‍💻 ABOUT ME (Short + Clean layout with bigger GIF) -->
+<table width="100%" style="background-color:#fdf0e8; border-radius: 15px; padding: 20px; border: none;">
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top" style="border: none;">
 
 <h2>💬 About Me</h2>
 
-👋 Hey! I’m **Leo**, a 3rd-year CS student with a passion for clean UI, clever APIs, and creative side projects.  
-🛠️ I love shipping things fast, breaking stuff (for learning), and picking up new stacks just for fun.  
-⚔️ When I’m not coding, you’ll find me sparring in the gym, bingeing UFC, or misplaying the Sicilian Defense at 1AM.  
-🤝 Looking to join a team that builds cool things, solves real problems, and makes dev work feel like play.
+Hey! I’m **Leo** — a 3rd-year CS student & full-stack dev who builds slick UIs, fast APIs, and fun side projects.  
+I train MMA, play chess, and always chase the next thing to learn.  
+Let’s build something awesome.
 
 </td>
-<td width="35%" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
+<td width="40%" align="center" style="border: none;">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" />
 </td>
 </tr>
 </table>
-
 
 ---
 
