@@ -1,75 +1,73 @@
-<!-- 🎥 Animated Banner -->
+<!-- 🎥 Animated Hero Banner -->
 <p align="center">
-  <img src="assets/animated-banner.gif" alt="Leo Animated Banner" width="100%" />
+  <img src="assets/animated-banner.gif" alt="Leo Hero Banner" width="100%" />
 </p>
 
-<!-- ✨ Name & Subtitle -->
-<h1 align="center">Hi, I'm Leo 👋</h1>
+<!-- ✨ Name and Role -->
+<h1 align="center" style="margin-top: -20px;">Hi, I'm Leo 👋</h1>
 <p align="center">
-  <strong>Full-Stack Developer · MMA Fan · Tech Explorer</strong><br/>
-  <em>Crafting code, dodging bugs, and pushing pixels.</em>
+  <strong>Full-Stack Developer · MMA Enthusiast · Tech Explorer</strong>
 </p>
 
 ---
 
-<!-- 🧑‍💻 ABOUT ME -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; background-color: #FDF5E6; border-radius: 15px; padding: 30px;">
+<!-- 🧑‍💻 ABOUT ME (Rounded card-style) -->
+<div align="center">
 
-<div style="flex: 1; min-width: 280px; max-width: 600px; text-align: left; padding: 10px; font-size: 16px;">
+<details open>
+<summary><strong>💬 About Me</strong></summary>
 
-## 💬 About Me
+<br/>
 
-Hey! I’m Leo — a 3rd-year CS student & full-stack developer who builds smooth UIs, scalable APIs, and fun side projects.  
-🥋 I train MMA, blunder in chess at 2AM, and never stop learning new stacks.
-
+<div align="center" style="border-radius: 12px; padding: 20px; background-color: #f6f8fa; max-width: 800px;">
+  I'm a 3rd-year CS student and full-stack dev who loves building UIs, architecting clean backends, and learning new tools for fun.  
+  Whether I'm solving bugs, sparring in MMA, or blundering in chess at 2AM — I’m always chasing progress.  
+  Currently exploring modern stacks and open to new dev opportunities!
 </div>
 
-<div style="flex: 1; min-width: 200px; text-align: center; padding: 10px;">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" />
-</div>
-
+</details>
 </div>
 
 ---
 
-## ⚙️ Tech Stack
+<!-- ⚙️ TECH STACK -->
+<h2 align="center">⚙️ Tech Stack</h2>
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- 📊 GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leorev01&show_icons=true&theme=tokyonight&hide_title=true" />
-</div>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- 🏆 TROPHIES -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leorev01&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=6&title=Commits,PullRequest,Repositories,Issues,Followers,MultiLanguage,Reviewer" />
-</div>
+</p>
 
 ---
 
-## 🔗 Let’s Connect
+<!-- 🔗 SOCIAL LINKS -->
+<h2 align="center">🔗 Let’s Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leorev01/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
