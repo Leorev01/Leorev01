@@ -64,9 +64,9 @@ Let’s build something cool.
 
 ---
 
-## 🏆 GitHub Trophies
 
 <div align="center">
+  <h2 align="center">📊 GitHub Stats</h2>
   <img 
     src="https://github-profile-trophy.vercel.app/?username=Leorev01&title=-Stars&theme=gruvbox&no-frame&column=9&margin-w=15&margin-h=15" 
     alt="GitHub Trophies"
