@@ -1,6 +1,6 @@
-<!-- 🧠 Typing Intro -->
+<!-- 🧠 Typing Intro (custom color text + background) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Leo!;Full-Stack+Developer+%7C+CS+Student;Tech+Lover+%7C+MMA+Fan+%7C+Chess+Nerd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Leo!;Full-Stack+Developer+%7C+CS+Student;Tech+Lover+%7C+MMA+Fan+%7C+Chess+Nerd" alt="Typing SVG" />
 </p>
 
 <!-- 🖼️ Banner -->
@@ -10,23 +10,24 @@
 
 ---
 
-<!-- 🧑‍💻 ABOUT ME (Short + Clean layout with bigger GIF) -->
-<table width="100%" style="background-color:#fdf0e8; border-radius: 15px; padding: 20px; border: none;">
-  <tr>
-    <td width="60%" valign="top" style="border: none;">
+<!-- 🧑‍💻 ABOUT ME (using divs as flex simulation) -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; background-color: #fdf0e8; border-radius: 15px; padding: 30px;">
 
-<h2>💬 About Me</h2>
+<div style="flex: 1; min-width: 280px; max-width: 600px; text-align: left; padding: 10px; font-size: 16px;">
 
-Hey! I’m **Leo** — a 3rd-year CS student & full-stack dev who builds slick UIs, fast APIs, and fun side projects.  
-I train MMA, play chess, and always chase the next thing to learn.  
-Let’s build something awesome.
+## 💬 About Me
 
-</td>
-<td width="40%" align="center" style="border: none;">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" />
-</td>
-</tr>
-</table>
+Hi! I’m **Leo** — a 3rd-year CS student & full-stack dev who loves building slick UIs, clean APIs, and creative side projects.  
+🥋 I train MMA, play a bit too much chess, and always chase the next thing to learn.  
+Let’s build something cool.
+
+</div>
+
+<div style="flex: 1; min-width: 200px; text-align: center; padding: 10px;">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" />
+</div>
+
+</div>
 
 ---
 
