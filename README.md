@@ -10,7 +10,7 @@
 
 ---
 
-<!-- 🧑‍💻 ABOUT ME (using divs as flex simulation) -->
+<!-- 🧑‍💻 ABOUT ME -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; background-color: #fdf0e8; border-radius: 15px; padding: 30px;">
 
 <div style="flex: 1; min-width: 280px; max-width: 600px; text-align: left; padding: 10px; font-size: 16px;">
@@ -52,18 +52,18 @@ Let’s build something cool.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leorev01&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=6&title=Commits,PullRequest,Issues,Repositories,Followers" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leorev01&show_icons=true&theme=tokyonight&hide_title=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leorev01&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=6&title=Commits,PullRequest,Repositories,Issues,Followers,MultiLanguage" />
 </div>
 
 ---
