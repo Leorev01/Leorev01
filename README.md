@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-BANNER-FILE.png" alt="Leo Banner" />
+  <img src="/assets/banner.png" alt="Leo Banner" />
 </p>
 
 ---
