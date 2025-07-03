@@ -1,6 +1,6 @@
 <!-- 👇 Banner at top -->
 <p align="center">
-  <img src="/assets/leo-banner.png" alt="Leo Cartoon Banner" width="100%" />
+  <img src="/assets/banner.png" alt="Leo Cartoon Banner" width="100%" />
 </p>
 
 <!-- 👇 Background illusion -->
