@@ -3,35 +3,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Leo!;Full-Stack+Developer+%7C+CS+Student;Tech+Lover+%7C+MMA+Fan+%7C+Chess+Nerd" alt="Typing SVG" />
 </p>
 
-<!-- 🖼️ Banner (not resized) -->
+<!-- 🖼️ Banner -->
 <p align="center" style="margin-top: -20px; margin-bottom: -20px;">
   <img src="assets/banner.png" alt="Leo Cartoon Banner" width="100%" />
 </p>
 
 ---
 
-<!-- 🧑‍💻 ABOUT ME Section in Table Format -->
-<table width="100%" style="background-color:#fdf0e8; border-radius: 15px; padding: 20px;">
-  <tr>
-    <td width="60%" valign="top" style="padding: 25px; font-size: 16px;">
-      
-  ## 💬 About Me  
+<!-- 🧑‍💻 ABOUT ME Section (Side-by-Side Simulation) -->
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; background-color:#fdf0e8; border-radius: 15px; padding: 20px;">
 
-  👋 Hey! I’m **Leo**, a 3rd-year CS student with a passion for clean UI, clever APIs, and creative side projects.  
-  🛠️ I love shipping things fast, breaking stuff (for learning), and picking up new stacks just for fun.  
-  ⚔️ When I’m not coding, you’ll find me sparring in the gym, bingeing UFC, or misplaying the Sicilian Defense at 1AM.  
-  🤝 Looking to join a team that builds cool things, solves real problems, and makes dev work feel like play.
+<div style="flex: 1; min-width: 250px; padding-right: 20px; font-size: 16px;">
 
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
-    </td>
-  </tr>
-</table>
+## 💬 About Me  
+
+👋 Hey! I’m **Leo**, a 3rd-year CS student with a passion for clean UI, clever APIs, and creative side projects.  
+🛠️ I love shipping things fast, breaking stuff (for learning), and picking up new stacks just for fun.  
+⚔️ When I’m not coding, you’ll find me sparring in the gym, bingeing UFC, or misplaying the Sicilian Defense at 1AM.  
+🤝 Looking to join a team that builds cool things, solves real problems, and makes dev work feel like play.
+
+</div>
+
+<div style="flex: 1; text-align: center; min-width: 200px;">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+</div>
+
+</div>
 
 ---
 
-<!-- 🧠 TECH STACK -->
 ## ⚙️ Tech Stack
 
 <div align="center" style="background-color:#e7f9f4; padding: 20px; border-radius: 15px;">
@@ -53,18 +53,22 @@
 
 ---
 
-<!-- 📊 GitHub Stats -->
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leorev01&show_icons=true&theme=tokyonight&hide_title=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leorev01&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Leorev01&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=6&title=Commits,PullRequest,Issues,Repositories,Followers" />
 </div>
 
 ---
 
-<!-- 🔗 CONTACT -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leorev01&show_icons=true&theme=tokyonight&hide_title=true" />
+</div>
+
+---
+
 ## 🔗 Let’s Connect
 
 <p align="center">
@@ -75,12 +79,10 @@
 
 ---
 
-<!-- 🧃 Fun Footer GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140" />
 </div>
 
 ---
 
-<!-- 🌟 Footer Quote -->
 <p align="center"><i>✨ "The best way to predict the future is to invent it." – Alan Kay ✨</i></p>
