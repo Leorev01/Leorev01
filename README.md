@@ -92,3 +92,4 @@ Let’s build something cool.
 
 ---
 
+<img src="https://github-profile-trophy.vercel.app/?username=Leorev01&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=6&title=Commits,PullRequest,Issues,Repositories,Followers,MultiLanguage,Reviewer,Gists,Discussions,RepositoriesPopular,DeveloperProgramMember,Achievements" />
