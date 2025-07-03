@@ -64,15 +64,14 @@ Let’s build something cool.
 
 ---
 
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<div align="center">
-  <h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Leorev01&title=-Stars&theme=gruvbox&no-frame&column=9&margin-w=15&margin-h=15" 
+    src="https://github-profile-trophy.vercel.app/?username=Leorev01&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=6&title=Commits,PullRequest,Repositories,Issues,Followers,MultiLanguage,Reviewer" 
     alt="GitHub Trophies"
-    style="max-width: 100%;" 
   />
-</div>
+</p>
 
 ---
 
