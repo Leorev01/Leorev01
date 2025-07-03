@@ -66,7 +66,7 @@ Let’s build something cool.
   <img 
     src="https://github-profile-trophy.vercel.app/?username=Leorev01&title=-Stars&theme=gruvbox&no-frame&column=9&margin-w=15&margin-h=15" 
     alt="GitHub Trophies"
-    style="max-width: 80%;" 
+    style="max-width: 100%;" 
   />
 </div>
 
