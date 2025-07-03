@@ -93,3 +93,9 @@ Let’s build something cool.
 ---
 
 <p align="center"><i>✨ "The best way to predict the future is to invent it." – Alan Kay ✨</i></p>
+<p align="center">
+  <a href="https://leorev01.github.io/stack-showdown/" target="_blank">
+    <img src="assets/play-tech-showdown-banner.png" width="100%" alt="Play Stack Showdown" />
+  </a>
+</p>
+
