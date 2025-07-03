@@ -10,25 +10,25 @@
 
 ---
 
-<!-- 🧑‍💻 ABOUT ME Section (Side-by-Side Simulation) -->
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; background-color:#fdf0e8; border-radius: 15px; padding: 20px;">
+<!-- 🧑‍💻 ABOUT ME Section (Fixed layout with GIF beside text) -->
+<table width="100%" style="background-color:#fdf0e8; border-radius: 15px; padding: 20px;">
+  <tr>
+    <td width="65%" valign="top">
 
-<div style="flex: 1; min-width: 250px; padding-right: 20px; font-size: 16px;">
-
-## 💬 About Me  
+<h2>💬 About Me</h2>
 
 👋 Hey! I’m **Leo**, a 3rd-year CS student with a passion for clean UI, clever APIs, and creative side projects.  
 🛠️ I love shipping things fast, breaking stuff (for learning), and picking up new stacks just for fun.  
 ⚔️ When I’m not coding, you’ll find me sparring in the gym, bingeing UFC, or misplaying the Sicilian Defense at 1AM.  
 🤝 Looking to join a team that builds cool things, solves real problems, and makes dev work feel like play.
 
-</div>
-
-<div style="flex: 1; text-align: center; min-width: 200px;">
+</td>
+<td width="35%" align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
-</div>
+</td>
+</tr>
+</table>
 
-</div>
 
 ---
 
