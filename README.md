@@ -68,7 +68,7 @@ Let’s build something cool.
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Leorev01&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=6&title=Commits,PullRequest,Repositories,Issues,Followers,MultiLanguage,Reviewer" 
+    src="https://github-profile-trophy.vercel.app/?username=Leorev01&title=-Stars&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=9"  
     alt="GitHub Trophies"
   />
 </p>
