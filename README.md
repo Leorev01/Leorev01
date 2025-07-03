@@ -1,11 +1,11 @@
-<!-- 👇 Banner -->
-<p align="center">
-  <img src="assets/leo-banner.png" alt="Leo Cartoon Banner" width="100%" height="280px" />
-</p>
-
 <!-- 👇 Typing-style intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Leo!;Full-Stack+Dev+%7C+CS+Student;MMA+Fan+%7C+Tech+Lover+%7C+Chess+Nerd" alt="Typing SVG" />
+</p>
+
+<!-- 👇 Banner -->
+<p align="center">
+  <img src="assets/banner.png" alt="Leo Cartoon Banner" width="100%" height="280px" />
 </p>
 
 <!-- 👇 Custom colored cartoon-style section -->
