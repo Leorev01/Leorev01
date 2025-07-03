@@ -63,7 +63,7 @@ Let’s build something cool.
 ## 🏆 GitHub Trophies
 
 <img 
-    src="https://github-profile-trophy.vercel.app/?username=Leorev01&-Stars&theme=gruvbox&no-frame&column=9&margin-w=15&margin-h=15" 
+    src="https://github-profile-trophy.vercel.app/?username=Leorev01&title=-Stars&theme=gruvbox&no-frame&column=9&margin-w=15&margin-h=15" 
     alt="GitHub Trophies"
     style="max-width: 100%;" 
   />
