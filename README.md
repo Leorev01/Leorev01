@@ -55,7 +55,7 @@ Let’s build something cool.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leorev01&-Stars&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leorev01&show_icons=true&theme=tokyonight&hide_title=true" />
 </div>
 
 ---
@@ -63,7 +63,7 @@ Let’s build something cool.
 ## 🏆 GitHub Trophies
 
 <img 
-    src="https://github-profile-trophy.vercel.app/?username=Leorev01&theme=gruvbox&no-frame&column=9&margin-w=15&margin-h=15" 
+    src="https://github-profile-trophy.vercel.app/?username=Leorev01&-Stars&theme=gruvbox&no-frame&column=9&margin-w=15&margin-h=15" 
     alt="GitHub Trophies"
     style="max-width: 100%;" 
   />
