@@ -59,6 +59,9 @@ Let’s build something cool.
 
 <p align="center">
   <img src="https://profile-card-ten-green.vercel.app/api/card?username=Leorev01&type=dragon" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leorev01&show_icons=true&theme=tokyonight&hide_title=true" />
 </p>
 </div>
