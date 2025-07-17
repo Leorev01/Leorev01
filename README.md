@@ -56,6 +56,7 @@ Let’s build something cool.
 <!-- GITHUB STATS -->
 <div style="background-color:#F0E8FF; border-radius: 15px; padding: 20px; margin-top: 20px;">
 <h2 align="center">📊 GitHub Stats</h2>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Leorev01&type=fighting" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leorev01&show_icons=true&theme=tokyonight&hide_title=true" />
