@@ -58,7 +58,7 @@ Let’s build something cool.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  |[My Card](<img src="https://profile-card-ten-green.vercel.app/api/card?username=Leorev01&type=dragon" />)
+  ![My Card](<img src="https://profile-card-ten-green.vercel.app/api/card?username=Leorev01&type=dragon" />)
 </p>
 
 <p align="center">
