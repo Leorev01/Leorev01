@@ -59,7 +59,7 @@ Let’s build something cool.
 <img src="https://profile-card-ten-green.vercel.app/api/card?username=Leorev01&type=fighting" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilfried08&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leorev018&show_icons=true&theme=tokyonight&hide_title=true" />
 </p>
 </div>
 
