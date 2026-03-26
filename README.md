@@ -85,7 +85,7 @@ Let’s build something cool.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leorev01/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.leonardorevrenna.software/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://www.leonardorevrenna.space/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel" /></a>
   <a href="https://www.youtube.com/@CrappyCoder2001/videos"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
