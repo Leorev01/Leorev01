@@ -87,6 +87,7 @@ Let’s build something cool.
   <a href="https://www.linkedin.com/in/leorev01/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.leonardorevrenna.space/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel" /></a>
   <a href="https://www.youtube.com/@CrappyCoder2001/videos"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.chess.com/member/king_dong_01"><img src="https://camo.githubusercontent.com/ab17b6504304dc92423d7a9a1dff4afcd03d60c40b0951ec96a34a6075dfdb4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43686573732e636f6d2d3736393635362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6368657373646f74636f6d266c6f676f436f6c6f723d7768697465"/></a>
 </p>
 
 <p align="center">
